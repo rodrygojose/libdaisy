@@ -28,6 +28,9 @@ else(OPENMP_FOUND)
   option(USE_OPENMP "Use OpenMP for parallelization" OFF)
 endif (OPENMP_FOUND)
 
+#add jpeg support
+add_definitions(-DWITH_JPEG)
+
 include_directories(include)
 
 # Make the headers appear in IDEs.
