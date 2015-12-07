@@ -1,7 +1,7 @@
 #ifndef KUTILITY_CORECV_H
 #define KUTILITY_CORECV_H
 
-#include "math.h"
+#include "kutility_math.h"
 
 namespace kutility
 {

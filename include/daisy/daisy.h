@@ -4,7 +4,7 @@
 // #include "kutility/kutility.h"
 
 #include "kutility/general.h"
-#include "kutility/math.h"
+#include "kutility/kutility_math.h"
 #include "kutility/image.h"
 #include "kutility/progress_bar.h"
 #include "kutility/fileio.h"

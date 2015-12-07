@@ -1,5 +1,5 @@
 #include <kutility/image_manipulation.h>
-#include <kutility/math.h>
+#include <kutility/kutility_math.h>
 
 namespace kutility
 {
