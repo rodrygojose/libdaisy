@@ -29,7 +29,7 @@ else(OPENMP_FOUND)
 endif (OPENMP_FOUND)
 
 #add jpeg support
-#add_definitions(-DWITH_JPEG)
+add_definitions(-DWITH_JPEG)
 
 include_directories(include)
 
